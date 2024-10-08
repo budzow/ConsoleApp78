@@ -1,0 +1,7 @@
+﻿C:\Users\michal\source\repos\ConsoleApp78\ConsoleApp78\ExampleController.cs
+C:\Users\michal\source\repos\ConsoleApp78\ConsoleApp78\Program.cs
+C:\Users\michal\source\repos\ConsoleApp78\ConsoleApp78\Properties\AssemblyInfo.cs
+C:\Users\michal\refit_logo.png
+C:\Users\michal\LICENSE
+C:\Users\michal\README.md
+C:\Users\michal\source\repos\ConsoleApp78\ConsoleApp78\App.config
